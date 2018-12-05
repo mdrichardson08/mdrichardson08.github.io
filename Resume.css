@@ -1,0 +1,21 @@
+/* CSS Document */
+.pdf {
+	margin: 15pxpx;
+}
+
+.home {
+	font-family: "source-code-pro";
+	font-weight: bold;
+	font-style: italic;
+	font-size: 15px;
+	margin-left: 50%;
+	margin-right: 50%;
+	margin-bottom: 15px;
+	display: inline-block;
+	align-content: center;
+	
+}
+
+.home:hover {
+	color: #cc3333;
+}
