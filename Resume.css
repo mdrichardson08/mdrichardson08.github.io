@@ -1,21 +1,22 @@
 /* CSS Document */
 .pdf {
 	margin: 15pxpx;
+	padding: 15px;
 }
 
-.home {
-	font-family: "source-code-pro";
-	font-weight: bold;
-	font-style: italic;
+footer {
+	font-family: 'source-code-pro';
+	font-weight: 600;
 	font-size: 15px;
-	margin-left: 50%;
-	margin-right: 50%;
-	margin-bottom: 15px;
-	display: inline-block;
-	align-content: center;
+	text-align: center;
+	margin: inherit;
+	color: #000000;
+	
 	
 }
 
-.home:hover {
-	color: #cc3333;
-}
+a { text-decoration: none; color:black; }
+a:visited { text-decoration: none; color:black; }
+a:hover { text-decoration: none; color:#cc3333; }
+a:focus { text-decoration: none; color:#cc3333; }
+a:hover, a:active { text-decoration: none; color:#cc3333; }
