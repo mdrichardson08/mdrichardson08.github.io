@@ -92,9 +92,10 @@ p {
 	font-family: 'source-code-pro';
 	font-style:normal;
 	font-size: 12px;
-	margin-left: 40%;
-	margin-right: 40%;
 	margin-top: 20px;
+	margin: 0 auto;
+	max-width: 30%;
+    max-height: 30%;
 	text-align: center;
 }
 
@@ -128,7 +129,7 @@ footer {
 	font-weight: 600;
 	font-size: 12px;
 	text-align: center;
-	margin: inherit;
+	margin: 0 auto;
 	color: #000000;
 }
 

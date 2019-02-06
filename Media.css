@@ -23,14 +23,16 @@ font-style:normal;font-weight:700;
 
 .tk-source-code-pro { font-family: "source-code-pro",monospace; }
 
-
+body {
+	margin: 20px;
+	align-content: center;
+}
 
 img {
     max-width: 30%;
     max-height: 30%;
-	align-content: center;
 	margin: 0 auto;
-	padding: 20px;
+	padding: 15px;
 }
 
 div {
